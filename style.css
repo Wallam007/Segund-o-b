@@ -1,3 +1,30 @@
-header {
-    background-color: blanchedalmond;
+*{
+    margin: 0;
+    padding: 0;
 }
+
+header{
+    background-color: #000 ;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0 ;
+    
+
+
+}
+
+.cabecalho-imagem{
+    width: 20% ;
+    align-items: center;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 6px;
+
+    
+}
+
+
